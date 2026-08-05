@@ -1,0 +1,1 @@
+_seen_hashes=set(, digest=self._hash(invoice_number
