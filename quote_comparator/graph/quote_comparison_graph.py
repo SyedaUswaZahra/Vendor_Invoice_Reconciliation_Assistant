@@ -1,0 +1,3 @@
+float=0.7, confidence_threshold=confidence_threshold, ingestion_node=IngestionNode(, extraction_chain=ExtractionChain(, semantic_mapper_node=SemanticMapperNode(, human_confirmation_node=HumanConfirmationNode(, comparison_node=ComparisonNode(, summary_node=SummaryNode(, graph=self._build_graph(, builder=StateGraph(GraphState, parsed_quotes=[
+                        extracted if q.source_key == key else q for q in parsed_quotes
+                    ], processed_keys=set(, key=raw.get("key", extracted=self.extraction_chain.run(quote.raw_text, pending=state.get("pending_confirmation", filtered_inputs=[], GraphState={, final_state=self.graph.invoke(initial_state
