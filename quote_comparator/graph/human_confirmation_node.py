@@ -1,0 +1,1 @@
+pending=state.get("pending_confirmation", alignments=state.get("category_alignments", confirm_fn=_default_confirm, resolved=[], prompt_text=build_mapping_prompt(, decision==, corrected=dict(item
