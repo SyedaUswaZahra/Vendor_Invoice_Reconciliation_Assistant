@@ -1,0 +1,1 @@
+int=0, chunk_size=self.chunk_size, chunk_overlap=self.chunk_overlap, splitter=RecursiveCharacterTextSplitter(, loader=PyPDFLoader(pdf_path, documents=loader.load(, chunks=self.splitter.split_documents(documents
