@@ -1,0 +1,1 @@
+model=ChatOpenAI(model="gpt-4o", parser=PydanticOutputParser(pydantic_object=InvoiceMetadataSchema, chain=EXTRACTION_PROMPT
