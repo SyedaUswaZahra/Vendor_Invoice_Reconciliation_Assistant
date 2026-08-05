@@ -1,0 +1,1 @@
+MAPPING_PROMPT=, items_lines=[], idx=item.get("index", desc=item.get("description", amount=item.get("amount", items_block=items_block, candidates_lines=[], candidates_block=candidates_block
