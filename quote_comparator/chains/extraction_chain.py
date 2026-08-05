@@ -1,0 +1,1 @@
+parser=PydanticOutputParser(pydantic_object=QuoteDocument, llm=ChatOpenAI(temperature=0, prompt=build_extraction_prompt(input_text, chain=prompt
