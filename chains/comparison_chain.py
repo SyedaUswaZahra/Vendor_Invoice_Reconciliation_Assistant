@@ -1,0 +1,1 @@
+model=ChatOpenAI(model="gpt-4o", parser=PydanticOutputParser(pydantic_object=DiscrepancySchema, chain=COMPARISON_PROMPT, result=self.chain.invoke({
